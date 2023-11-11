@@ -1,6 +1,6 @@
 # Sobre mim
 
-### Desenvolvedor focado na linguagem C# e .NET
+### Desenvolvedor buscando a primeira oportunidade na área!
 
 Atualmente estudante da Universidade Católica de Brasília no curso de analise e desenvolvimento de sistemas.
 
