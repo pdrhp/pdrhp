@@ -1,10 +1,8 @@
 # Sobre mim
 
-### Desenvolvedor buscando a primeira oportunidade na área!
+### Desenvolvedor Fullstack!
 
-Atualmente estudante da Universidade Católica de Brasília no curso de analise e desenvolvimento de sistemas.
-
-Em busca da primeira oportunidade profissional na área .
+Atualmente estudante da Universidade Católica de Brasília no curso de analise e desenvolvimento de sistemas e trabalhando como desenvolvedor Fullstack na Level33.
 
 [Linkedin](https://www.linkedin.com/in/pedro-henrique-pinto-642848247/)
 
