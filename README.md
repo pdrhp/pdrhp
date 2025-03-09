@@ -1,8 +1,6 @@
 # Sobre mim
 
-### Desenvolvedor Fullstack!
-
-Atualmente trabalhando como engenheiro de software no Itaú!
+## Atualmente trabalhando como engenheiro de software no Itaú!
 
 [Linkedin](https://www.linkedin.com/in/pdr-hp2004/)
 
